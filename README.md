@@ -30,7 +30,13 @@ Key variables:
 - Second Class shipping has the highest delay
 - Some regions show consistently higher delays
 - Delay is influenced by both shipping mode and region
-
+  
+## Hypotheses
+- Certain shipping modes are associated with higher late-delivery risk.
+- Some regions may have structural logistics bottlenecks.
+- Product categories with higher handling complexity may face greater delays.
+- The gap between scheduled and actual shipping time is influenced by both region and shipping mode.
+  
 ## Recommendations
 - Improve performance of slower shipping modes
 - Focus on high-delay regions
